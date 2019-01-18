@@ -25,7 +25,7 @@ app.use(function(req, res, next) {
 
 // GET
 app.get('/',function(req,res){
-	
+	//renomear bucket
     var params = {
         Bucket: 'cloudninja-jon',
     };
