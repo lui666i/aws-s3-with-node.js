@@ -25,7 +25,7 @@ app.use(function(req, res, next) {
 
 // GET
 app.get('/',function(req,res){
-	
+	//alterar nome do bucket
     var dstBucket = 'cloudninja-jon';
     var dstKey = 'arquivo.txt';
     var arquivo = 'Parabéns Ninja, você completou com sucesso essa tarefa!';
