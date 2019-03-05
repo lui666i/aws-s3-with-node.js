@@ -10,26 +10,27 @@ Example Node.js running in instance EC2 AWS Linux Amazon, config client AWS enab
 <p>
 AWS Instances info  Curl http://169.254.169.254/latest/meta-data/
 </p>
-<br>  
-ami-id<br>
-ami-launch-index<br>
-ami-manifest-path<br>
-block-device-mapping/<br>
-events/<br>
-hostname<br>
-iam/<br>
-instance-action<br>
-instance-id<br>
-instance-type<br>
-local-hostname<br>
-local-ipv4<br>
-mac<br>
-metrics/<br>
-network/<br>
-placement/<br>
-profile<br>
-public-hostname<br>
-public-ipv4<br>
-public-keys/<br>
-reservation-id<br>
-security-groups<br>
+<ul>   <li>
+ami-id</li><li>
+ami-launch-index</li><li>
+ami-manifest-path</li><li>
+block-device-mapping/</li><li>
+events/</li><li>
+hostname</li><li>
+iam/</li><li>
+instance-action</li><li>
+instance-id</li><li>
+instance-type</li><li>
+local-hostname</li><li>
+local-ipv4</li><li>
+mac</li><li>
+metrics/</li><li>
+network/</li><li>
+placement/</li><li>
+profile</li><li>
+public-hostname</li><li>
+public-ipv4</li><li>
+public-keys/</li><li>
+reservation-id</li><li>
+  security-groups</li>
+  </ul>
